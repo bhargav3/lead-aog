@@ -1,0 +1,26 @@
+{
+  "name": "lead-aog",
+  "version": "1.0.0",
+  "description": "Lead management system built using Actions on Google",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhargav3/lead-aog.git"
+  },
+  "keywords": [
+    "AoG",
+    "lead"
+  ],
+  "author": "Bhargav and Suresh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhargav3/lead-aog/issues"
+  },
+  "homepage": "https://github.com/bhargav3/lead-aog#readme",
+  "dependencies": {
+    "actions-on-google": "^1.10.0"
+  }
+}
